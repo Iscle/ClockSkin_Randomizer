@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">ClockSkin Randomizer</string>
+    <string name="title" translatable="false">ClockSkin\nRandomizer</string>
+    <string name="disabled">Disabled</string>
+    <string name="enabled">Enabled</string>
+    <string name="choose_delay">Choose the delay between ClockSkin changes</string>
+    <string name="save">Save</string>
+</resources>
